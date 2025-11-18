@@ -28,6 +28,7 @@ void insert_node(SparseMatrixLinked *sparse, int row, int col, int value) {
     Node* current = sparse->head;
     Node* previous = NULL;
     
+    //Método sem ponteiro no final, ou seja, torna a inserção no pior caso O(n)
     while (current != NULL) {
         // Encontra a posição correta (ordenado por linha, depois por coluna)
         if (current->row > row || (current->row == row && current->col > col)) {
