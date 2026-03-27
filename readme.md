@@ -9,7 +9,7 @@ Este repositório contém materiais e exemplos relacionados aos principais conce
 
 
 **Manual Completo de algoritmos e estrutura de dados - Prof. Dr. Alexandre Levada  (UFSCAR)**.
-**DOI: 10.13140/RG.2.2.11875.87847**
+- **DOI: 10.13140/RG.2.2.11875.87847**
 
 ## Conteúdos Abordados
 
