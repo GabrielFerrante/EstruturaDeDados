@@ -2,6 +2,15 @@
 
 Este repositório contém materiais e exemplos relacionados aos principais conceitos de Estrutura de Dados, fundamentais para o desenvolvimento eficiente de algoritmos e aplicações.
 
+**Códigos criados e revisados por Gabriel Souto Ferrante | Aluno de estágio PESCD** 
+- Conteúdos referentes as disciplinas de AED1 (02/2025) e AED2 (01/2026) da Universidade Federal de São Carlos.
+
+## Material de apoio
+
+
+**Manual Completo de algoritmos e estrutura de dados - Prof. Dr. Alexandre Levada  (UFSCAR)**.
+**DOI: 10.13140/RG.2.2.11875.87847**
+
 ## Conteúdos Abordados
 
 #### 1. Complexidade de Algoritmos
@@ -87,12 +96,5 @@ Um grafo é uma estrutura de dados não linear que consiste em um conjunto de v�
     - **Algoritmo de Prim:** Constrói a árvore geradora mínima adicionando o vértice mais próximo ao conjunto já construído.
 - **Fluxo em redes e o algoritmo de Ford-Fulkerson:** Resolve o problema de fluxo máximo em redes, que busca o máximo de "fluxo" que pode passar de uma fonte para um destino.
 - **O Problema do Caixeiro Viajante (Traveling Salesman Problem - TSP):** Um problema de otimização NP-difícil que busca o caminho mais curto para um caixeiro que precisa visitar várias cidades e retornar à cidade de origem.
-
-## Material de apoio
-
-
-Manual Completo de algoritmos e estrutura de dados - Prof. Dr. Alexandre Levada  (UFSCAR)
-
-DOI: 10.13140/RG.2.2.11875.87847
 
 ---
