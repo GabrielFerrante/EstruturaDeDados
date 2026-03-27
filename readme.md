@@ -28,6 +28,7 @@ Algoritmos de ordenação são fundamentais para organizar dados. Eles recebem u
 - **Shellsort:** Uma versão aprimorada do Insertion Sort.
 - **Quicksort:** Um algoritmo de divisão e conquista que seleciona um 'pivô' e particiona a lista em torno dele.
 - **Mergesort (Ordenação por intercalação):** Também um algoritmo de divisão e conquista que divide a lista ao meio, ordena cada metade e as mescla.
+- **Heapsort** Ordenando usando conceito de ABC (árvores binárias completas).
 - **Limite Inferior para Ordenação Baseada em Comparações:** Demonstra que, no melhor caso, a complexidade de tempo de qualquer algoritmo de ordenação baseado em comparações é O(n log n).
 - **Ordenação Não Baseada em Comparações:**
     - **Countingsort:** Funciona contando a frequência de cada elemento na lista.
