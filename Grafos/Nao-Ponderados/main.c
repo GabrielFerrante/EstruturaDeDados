@@ -18,8 +18,8 @@ int main() {
 
     // Executa as duas buscas a partir do verrtice 0
     printf("Buscas (comecando no vertice 0) \n");
-    bfs(g, 0);   // esperado: 0 1 2 3 4  (por camadas)
-    dfs(g, 0);   // esperado: 0 1 3 2 4  (mergulhando fundo)
+    bfs(g, 0);   // esperado: 0 1 2 3 4  (por largura)
+    dfs(g, 0);   // esperado: 0 1 3 2 4  (por profundidade)
 
     // Sempre liberar a memoria ao final
     liberar_grafo(g);
