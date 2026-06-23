@@ -2,6 +2,8 @@
 #define GRAFO_H
 
 
+
+
 typedef struct No {
     int vertice;         
     struct No* proximo;   

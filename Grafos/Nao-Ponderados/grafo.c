@@ -2,7 +2,9 @@
 #include <stdlib.h>
 #include "grafo.h"
 
-
+// CÓDIGO GERADO PELO CLAUDE
+// REVISADO E VALIDADO POR GABRIEL S. FERRANTE
+// USAR PARA SOMENTE CONTEÚDOS DIDÁTICOS
 
 
 static No* criar_no(int vertice) {
